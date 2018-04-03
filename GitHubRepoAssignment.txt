@@ -1,0 +1,4 @@
+I started by creating a new repsitory on GitHub via the "+" button in the top 
+right hand corner of the homepage. Then I created the folder, files, and
+repository locally via the terminal using git commands. After commiting changes I then used the commands provided by GitHub to push the files to the repository on GitHub. 
+ 
